@@ -1,0 +1,2 @@
+annual_spend_per_connection_eur,reduction_pct,capex_per_meter_eur,opex_per_meter_per_year,discount_rate_annual,payback_year,npv_eur,irr_annual,roi_horizon,milestone_50pct_year,milestone_80pct_year,K_target_units
+300,0.15,100,0.0,0.08,2027,98208705.7077483,0.7347788890300984,0.8774786060776879,2027,2030,2000000
