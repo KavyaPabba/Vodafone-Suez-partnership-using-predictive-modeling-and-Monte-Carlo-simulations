@@ -1,0 +1,2 @@
+# Vodafone-Suez-partnership-using-predictive-modeling-and-Monte-Carlo-simulations
+Analyzed the Vodafone–SUEZ alliance as a model for telco–utility collaborations in sustainable infrastructure. Applied predictive modeling, KPI benchmarking, and Monte Carlo simulations to forecast adoption, steady-state savings, and ROI. Delivered a strategic framework and roadmap for JOIN Group, aligning financial performance with ESG impact.
